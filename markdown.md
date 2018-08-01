@@ -3,7 +3,7 @@
 
 
 # 一级标题
-一级标题自带分隔线
+一级标题自带分隔线
 ## 二级标题
 ### 三级标题
 #### 四级标题
@@ -51,7 +51,7 @@ _斜体文字_
 单行
 `<i class="u-icon-circle" :class="{on: index == 0}"></i>`
 
-多行用三个`
+多行用三个`
 ```
 getBagDetail(i){
 	this.currentBag = i;
